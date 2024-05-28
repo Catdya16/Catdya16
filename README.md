@@ -1,6 +1,11 @@
 ## Hi there 👋
+_Sou uma pessoa legal (as vezes)
 
-<!--
+_Estou estudando na Alura
+
+_Estou me desenvolvendo na linguagem JavaScript
+
+<!-- 
 **Catdya16/Catdya16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
